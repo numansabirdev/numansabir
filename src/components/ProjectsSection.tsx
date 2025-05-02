@@ -10,7 +10,7 @@ const ProjectsSection = () => {
       tags: ["Computer Vision", "Deep Learning", "Threat Detection", "Python"],
       demoUrl: "https://youtu.be/gmiEBf7xvVw",
       githubUrl: "#",
-      imageUrl: "https://images.unsplash.com/photo-1561144257-e32e8ffc8e4f""
+      imageUrl: "https://images.unsplash.com/photo-1561144257-e32e8ffc8e4f"
     },
     {
       title: "RAG Application using LangChain",

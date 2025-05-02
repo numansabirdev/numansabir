@@ -48,11 +48,6 @@ const Footer = () => {
           <p className="text-gray-400 text-sm">
             &copy; {currentYear} Numan Sabir. All rights reserved.
           </p>
-          <div className="mt-4 md:mt-0">
-            <p className="text-gray-400 text-sm">
-              Made with <span className="text-red-500">❤</span> using React & Tailwind CSS
-            </p>
-          </div>
         </div>
       </div>
     </footer>
